@@ -1,2 +1,2 @@
 # cmpe-12-lab6
-turns an integer into binary
+converts an integer into a binary number
